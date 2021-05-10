@@ -29,7 +29,7 @@ def getWeather(canvas):
 
 canvas = tk.Tk()
 canvas.geometry("500x400")
-canvas.title("Wheather-Checker")
+canvas.title("Weather-Checker")
 canvas.configure(background= "blue")
 f = ("Times", 15)
 t = ("Times", 20, "bold")
